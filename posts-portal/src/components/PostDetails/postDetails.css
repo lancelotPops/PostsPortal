@@ -1,0 +1,17 @@
+.postDetails {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: bold;
+  color: #2c7d96;
+}
+
+.userId {
+  color: #2c8d96;
+}
+
+.detailsBody {
+  margin-left: 20px;
+}
