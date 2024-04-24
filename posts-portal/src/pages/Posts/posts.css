@@ -1,0 +1,19 @@
+.pageHeader {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  color: #26a39b;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.searchBar {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.count {
+  display: flex;
+  justify-content: end;
+  margin-right: 20px;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
